@@ -1,5 +1,8 @@
 defaultNumber: 42
 
+---
+spring:
+    profiles: local
 eureka:
   client:
     serviceUrl:
