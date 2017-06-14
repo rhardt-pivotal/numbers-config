@@ -1,4 +1,4 @@
-defaultNumber: 42
+defaultNumber: 42.5+3i
 
 ---
 spring:
